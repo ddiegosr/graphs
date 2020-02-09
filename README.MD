@@ -13,11 +13,9 @@ Run the following command in your terminal to install the project dependencies:
 pip install -r requirements.txt
 ```
 
-**If you are in a linux distribution you must change _pip_ to _pip3_ to use the pip in the version 3 of Python**
-
 After that you can run this project by use the following command:
 ```bash
 python main.py
 ```
 
-**If you are in a linux distribution you must change _python_ to _python3_ to use version 3 of Python**
+**If you are in a linux distribution you must change _python_ and _pip_ commands to _python3_ and _pip3_ respectively to use version 3 of Python**
